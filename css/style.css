@@ -609,15 +609,15 @@ header.de_header_2.smaller .info {
 	display: none;
 	float: right;
 	margin-top: 5px;
-	width: 36px;
-	height: 36px;
+	width: 50px;
+	height: 50px;
 	padding: 6px;
 	text-align: center;
 	cursor: pointer;
 }
 #menu-btn:before {
-	font-family: FontAwesome;
-	content: "\f0c9";
+	/* font-family: FontAwesome;
+	content: "\f0c9"; */
 	font-size: 24px;
 }
 #menu-btn:hover {
@@ -7609,7 +7609,7 @@ a, img {
 		/* max-width: 200px; */
 		/* margin-top: 41px;
 		padding: 2px; */
-		border: 2px solid black;
+		/* border: 2px solid black; */
 		/* margin-top: 23px; */
 		background-color: white;
 	}
