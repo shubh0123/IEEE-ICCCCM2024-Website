@@ -772,7 +772,7 @@ header.header-light {
 	background: rgba(255, 255, 255, .8);
 }
 header.header-mobile {
-	height: 100%;
+	/* height: 50%; */
 	background:#fff;
 }
 header.header-mobile #logo{
@@ -6998,7 +6998,7 @@ a, img {
 		margin-top: 0;
 		height: auto;
 		background: #000000;
-		padding: 15px 0 15px 0;
+		/* padding: 15px 0 15px 0; */
 	}
 	#de-sidebar {
 		position: absolute !important;
@@ -7605,14 +7605,12 @@ a, img {
 	.text-item i {
 		font-size: 24px;
 	}
-	header div#logo img {
+	/* header div#logo img {
 		/* max-width: 200px; */
-		/* margin-top: 41px;
-		padding: 2px; */
-		/* border: 2px solid black; */
-		/* margin-top: 23px; */
+		
+		/* border: 2px solid black; 
 		background-color: white;
-	}
+	} */
 	.pf_full_width.gallery_border .item {
 		width: 100% !important;
 	}
