@@ -5413,9 +5413,9 @@ color:rgba(0,0,0,1) !important;
 .nav-prev:before, .nav-next:before, .nav-exit:before {
 	font-family: "FontAwesome";
 	content: '\f177';
-	color: #fff;
+	color: #0000;
 	padding: 20px;
-	font-size: 24px;
+	font-size: 40px;
 	cursor: pointer;
 }
 .nav-exit:before {
